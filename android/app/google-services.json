@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329927765194",
+    "firebase_url": "https://cowmes-fccf9.firebaseio.com",
+    "project_id": "cowmes-fccf9",
+    "storage_bucket": "cowmes-fccf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329927765194:android:affe6f0f0376bbab95d833",
+        "android_client_info": {
+          "package_name": "com.example.cowmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329927765194-bk88glal7ik69ujmnfdhm9gq8isjpj94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccLU6sRTbiRkZyFC8hIbd7BpP2_-02Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329927765194-bk88glal7ik69ujmnfdhm9gq8isjpj94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
